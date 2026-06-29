@@ -1,0 +1,2 @@
+A R version of EEEWORM. BEWARE THIS IS A TRIAL VERSION. The final version is available on request contact me @Quentin2VA for any use. This translation of the original NETLOGO EEEWORM model (Johnston et al., 2018) allow user to modify directly function from the R script. I developped it to reach specific steps in the way compilated code cannot. 
+Version 3.0 with ¤pesticide_exposure¤ + ¤add_species¤ (addition of A. caliginosa worm in the same simulation) are not validated by the moment. Contact me if you are interested to collaborate or simply use it.
